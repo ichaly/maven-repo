@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.ichaly</groupId>
   <artifactId>alipay-sdk-java</artifactId>
-  <version>20160615120059</version>
+  <version>20160615</version>
   <description>POM was created from install:install-file</description>
 </project>
